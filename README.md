@@ -14,8 +14,9 @@
 
 <kbd>
    <kbd>Languages</kbd>
-    <br>
-    <br>
+   <br>
+   <br>
+   <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" /> 
@@ -23,11 +24,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/liquid/liquid-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
@@ -39,12 +35,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/posgresql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    
-  </kbd>
-  <kbd>
-    <kbd>Cloud & DevOps</kbd>
-    <br>
-    <br>
      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
@@ -54,38 +44,14 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cicd/cicd-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby on rails/ruby on rails-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    
-  </kbd>
- 
-   <kbd>
-    <kbd>Adobe Tools</kbd>
-    <br>
-    <br>
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-photoshop.png" />
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://img.icons8.com/fluent/42/000000/sublime-text.png">
-  </kbd>
-  <kbd>
-    <kbd>OS</kbd>
-    <br>
-    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>VM</kbd>
-    <br>
-    <br>
     <img width="30px" src="https://img.icons8.com/color/42/000000/virtualbox.png" />
-  </kbd>
-  <br/>
-  <br/>
+</kbd>
   
  ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
 
