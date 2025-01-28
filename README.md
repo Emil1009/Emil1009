@@ -13,7 +13,7 @@
 - 📫 How to reach me: **lewandowskie859@gmail.com**
 
 <kbd>
-   <kbd>Languages</kbd>
+   <kbd>Skill Sets</kbd>
    <br>
    <br>
    <br>
